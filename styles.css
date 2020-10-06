@@ -1,10 +1,31 @@
+
 header{
     background-color:pink;
 }
 
 .container{
     background-color: whitesmoke;
+    padding-top: 50px;
 }
-navbarNav{
-    background-color: turquoise;
+#header-img{
+    margin:auto;
+    padding-left: 40px;
+}
+#services{
+    padding-top: 30px;
+}
+
+.navbar{
+   
+    overflow: hidden;
+    background-color:pink;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+form{
+    padding-top: 100px;
+}
+#prices{
+    padding-top: 30px;
 }
